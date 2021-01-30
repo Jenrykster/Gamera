@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/rodovia/Gamera#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "discord.js": "^12.5.1",
+    "express": "^4.17.1",
     "mal-scraper": "^2.11.2",
     "ms": "^2.1.3"
   },

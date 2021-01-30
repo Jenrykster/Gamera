@@ -1,4 +1,4 @@
-const server = require('./server.js');
+const server = require('./dashboard/server.js');
 const discord = require("discord.js");
 
 const client = new discord.Client({
